@@ -23,7 +23,7 @@
 }
 
 #text {
-	font-family: "0xProto Nerd Font Regular";
+	font-family: system-ui, sans-serif;
 }
 
 #text:selected {
